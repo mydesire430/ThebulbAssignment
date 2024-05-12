@@ -1,0 +1,15 @@
+C:\thebulbassignment\Todolist\Totolist\bin\Debug\net5.0\Totolist.exe
+C:\thebulbassignment\Todolist\Totolist\bin\Debug\net5.0\Totolist.deps.json
+C:\thebulbassignment\Todolist\Totolist\bin\Debug\net5.0\Totolist.runtimeconfig.json
+C:\thebulbassignment\Todolist\Totolist\bin\Debug\net5.0\Totolist.runtimeconfig.dev.json
+C:\thebulbassignment\Todolist\Totolist\bin\Debug\net5.0\Totolist.dll
+C:\thebulbassignment\Todolist\Totolist\bin\Debug\net5.0\Totolist.pdb
+C:\thebulbassignment\Todolist\Totolist\obj\Debug\net5.0\Totolist.GeneratedMSBuildEditorConfig.editorconfig
+C:\thebulbassignment\Todolist\Totolist\obj\Debug\net5.0\Totolist.AssemblyInfoInputs.cache
+C:\thebulbassignment\Todolist\Totolist\obj\Debug\net5.0\Totolist.AssemblyInfo.cs
+C:\thebulbassignment\Todolist\Totolist\obj\Debug\net5.0\Totolist.csproj.CoreCompileInputs.cache
+C:\thebulbassignment\Todolist\Totolist\obj\Debug\net5.0\Totolist.dll
+C:\thebulbassignment\Todolist\Totolist\obj\Debug\net5.0\refint\Totolist.dll
+C:\thebulbassignment\Todolist\Totolist\obj\Debug\net5.0\Totolist.pdb
+C:\thebulbassignment\Todolist\Totolist\obj\Debug\net5.0\Totolist.genruntimeconfig.cache
+C:\thebulbassignment\Todolist\Totolist\obj\Debug\net5.0\ref\Totolist.dll

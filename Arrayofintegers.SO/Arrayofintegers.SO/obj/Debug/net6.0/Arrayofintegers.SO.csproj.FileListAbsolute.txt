@@ -1,0 +1,14 @@
+C:\thebulbassignment\Arrayofintegers.SO\Arrayofintegers.SO\obj\Debug\net6.0\Arrayofintegers.SO.GeneratedMSBuildEditorConfig.editorconfig
+C:\thebulbassignment\Arrayofintegers.SO\Arrayofintegers.SO\obj\Debug\net6.0\Arrayofintegers.SO.AssemblyInfoInputs.cache
+C:\thebulbassignment\Arrayofintegers.SO\Arrayofintegers.SO\obj\Debug\net6.0\Arrayofintegers.SO.AssemblyInfo.cs
+C:\thebulbassignment\Arrayofintegers.SO\Arrayofintegers.SO\obj\Debug\net6.0\Arrayofintegers.SO.csproj.CoreCompileInputs.cache
+C:\thebulbassignment\Arrayofintegers.SO\Arrayofintegers.SO\bin\Debug\net6.0\Arrayofintegers.SO.exe
+C:\thebulbassignment\Arrayofintegers.SO\Arrayofintegers.SO\bin\Debug\net6.0\Arrayofintegers.SO.deps.json
+C:\thebulbassignment\Arrayofintegers.SO\Arrayofintegers.SO\bin\Debug\net6.0\Arrayofintegers.SO.runtimeconfig.json
+C:\thebulbassignment\Arrayofintegers.SO\Arrayofintegers.SO\bin\Debug\net6.0\Arrayofintegers.SO.dll
+C:\thebulbassignment\Arrayofintegers.SO\Arrayofintegers.SO\bin\Debug\net6.0\Arrayofintegers.SO.pdb
+C:\thebulbassignment\Arrayofintegers.SO\Arrayofintegers.SO\obj\Debug\net6.0\Arrayofintegers.SO.dll
+C:\thebulbassignment\Arrayofintegers.SO\Arrayofintegers.SO\obj\Debug\net6.0\refint\Arrayofintegers.SO.dll
+C:\thebulbassignment\Arrayofintegers.SO\Arrayofintegers.SO\obj\Debug\net6.0\Arrayofintegers.SO.pdb
+C:\thebulbassignment\Arrayofintegers.SO\Arrayofintegers.SO\obj\Debug\net6.0\Arrayofintegers.SO.genruntimeconfig.cache
+C:\thebulbassignment\Arrayofintegers.SO\Arrayofintegers.SO\obj\Debug\net6.0\ref\Arrayofintegers.SO.dll

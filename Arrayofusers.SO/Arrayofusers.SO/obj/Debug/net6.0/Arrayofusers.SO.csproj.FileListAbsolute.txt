@@ -1,0 +1,14 @@
+C:\thebulbassignment\Arrayofusers.SO\Arrayofusers.SO\obj\Debug\net6.0\Arrayofusers.SO.GeneratedMSBuildEditorConfig.editorconfig
+C:\thebulbassignment\Arrayofusers.SO\Arrayofusers.SO\obj\Debug\net6.0\Arrayofusers.SO.AssemblyInfoInputs.cache
+C:\thebulbassignment\Arrayofusers.SO\Arrayofusers.SO\obj\Debug\net6.0\Arrayofusers.SO.AssemblyInfo.cs
+C:\thebulbassignment\Arrayofusers.SO\Arrayofusers.SO\obj\Debug\net6.0\Arrayofusers.SO.csproj.CoreCompileInputs.cache
+C:\thebulbassignment\Arrayofusers.SO\Arrayofusers.SO\bin\Debug\net6.0\Arrayofusers.SO.exe
+C:\thebulbassignment\Arrayofusers.SO\Arrayofusers.SO\bin\Debug\net6.0\Arrayofusers.SO.deps.json
+C:\thebulbassignment\Arrayofusers.SO\Arrayofusers.SO\bin\Debug\net6.0\Arrayofusers.SO.runtimeconfig.json
+C:\thebulbassignment\Arrayofusers.SO\Arrayofusers.SO\bin\Debug\net6.0\Arrayofusers.SO.dll
+C:\thebulbassignment\Arrayofusers.SO\Arrayofusers.SO\bin\Debug\net6.0\Arrayofusers.SO.pdb
+C:\thebulbassignment\Arrayofusers.SO\Arrayofusers.SO\obj\Debug\net6.0\Arrayofusers.SO.dll
+C:\thebulbassignment\Arrayofusers.SO\Arrayofusers.SO\obj\Debug\net6.0\refint\Arrayofusers.SO.dll
+C:\thebulbassignment\Arrayofusers.SO\Arrayofusers.SO\obj\Debug\net6.0\Arrayofusers.SO.pdb
+C:\thebulbassignment\Arrayofusers.SO\Arrayofusers.SO\obj\Debug\net6.0\Arrayofusers.SO.genruntimeconfig.cache
+C:\thebulbassignment\Arrayofusers.SO\Arrayofusers.SO\obj\Debug\net6.0\ref\Arrayofusers.SO.dll
