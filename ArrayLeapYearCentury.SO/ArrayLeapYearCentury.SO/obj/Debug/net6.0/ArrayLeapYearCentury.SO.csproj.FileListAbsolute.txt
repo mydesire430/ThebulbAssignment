@@ -1,0 +1,14 @@
+C:\thebulbassignment\ArrayLeapYearCentury.SO\ArrayLeapYearCentury.SO\bin\Debug\net6.0\ArrayLeapYearCentury.SO.exe
+C:\thebulbassignment\ArrayLeapYearCentury.SO\ArrayLeapYearCentury.SO\bin\Debug\net6.0\ArrayLeapYearCentury.SO.deps.json
+C:\thebulbassignment\ArrayLeapYearCentury.SO\ArrayLeapYearCentury.SO\bin\Debug\net6.0\ArrayLeapYearCentury.SO.runtimeconfig.json
+C:\thebulbassignment\ArrayLeapYearCentury.SO\ArrayLeapYearCentury.SO\bin\Debug\net6.0\ArrayLeapYearCentury.SO.dll
+C:\thebulbassignment\ArrayLeapYearCentury.SO\ArrayLeapYearCentury.SO\bin\Debug\net6.0\ArrayLeapYearCentury.SO.pdb
+C:\thebulbassignment\ArrayLeapYearCentury.SO\ArrayLeapYearCentury.SO\obj\Debug\net6.0\ArrayLeapYearCentury.SO.GeneratedMSBuildEditorConfig.editorconfig
+C:\thebulbassignment\ArrayLeapYearCentury.SO\ArrayLeapYearCentury.SO\obj\Debug\net6.0\ArrayLeapYearCentury.SO.AssemblyInfoInputs.cache
+C:\thebulbassignment\ArrayLeapYearCentury.SO\ArrayLeapYearCentury.SO\obj\Debug\net6.0\ArrayLeapYearCentury.SO.AssemblyInfo.cs
+C:\thebulbassignment\ArrayLeapYearCentury.SO\ArrayLeapYearCentury.SO\obj\Debug\net6.0\ArrayLeapYearCentury.SO.csproj.CoreCompileInputs.cache
+C:\thebulbassignment\ArrayLeapYearCentury.SO\ArrayLeapYearCentury.SO\obj\Debug\net6.0\ArrayLeapYearCentury.SO.dll
+C:\thebulbassignment\ArrayLeapYearCentury.SO\ArrayLeapYearCentury.SO\obj\Debug\net6.0\refint\ArrayLeapYearCentury.SO.dll
+C:\thebulbassignment\ArrayLeapYearCentury.SO\ArrayLeapYearCentury.SO\obj\Debug\net6.0\ArrayLeapYearCentury.SO.pdb
+C:\thebulbassignment\ArrayLeapYearCentury.SO\ArrayLeapYearCentury.SO\obj\Debug\net6.0\ArrayLeapYearCentury.SO.genruntimeconfig.cache
+C:\thebulbassignment\ArrayLeapYearCentury.SO\ArrayLeapYearCentury.SO\obj\Debug\net6.0\ref\ArrayLeapYearCentury.SO.dll
