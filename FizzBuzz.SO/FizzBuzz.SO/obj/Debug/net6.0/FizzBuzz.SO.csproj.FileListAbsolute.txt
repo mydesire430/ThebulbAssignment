@@ -1,0 +1,14 @@
+C:\thebulbassignment\FizzBuzz.SO\FizzBuzz.SO\bin\Debug\net6.0\FizzBuzz.SO.exe
+C:\thebulbassignment\FizzBuzz.SO\FizzBuzz.SO\bin\Debug\net6.0\FizzBuzz.SO.deps.json
+C:\thebulbassignment\FizzBuzz.SO\FizzBuzz.SO\bin\Debug\net6.0\FizzBuzz.SO.runtimeconfig.json
+C:\thebulbassignment\FizzBuzz.SO\FizzBuzz.SO\bin\Debug\net6.0\FizzBuzz.SO.dll
+C:\thebulbassignment\FizzBuzz.SO\FizzBuzz.SO\bin\Debug\net6.0\FizzBuzz.SO.pdb
+C:\thebulbassignment\FizzBuzz.SO\FizzBuzz.SO\obj\Debug\net6.0\FizzBuzz.SO.GeneratedMSBuildEditorConfig.editorconfig
+C:\thebulbassignment\FizzBuzz.SO\FizzBuzz.SO\obj\Debug\net6.0\FizzBuzz.SO.AssemblyInfoInputs.cache
+C:\thebulbassignment\FizzBuzz.SO\FizzBuzz.SO\obj\Debug\net6.0\FizzBuzz.SO.AssemblyInfo.cs
+C:\thebulbassignment\FizzBuzz.SO\FizzBuzz.SO\obj\Debug\net6.0\FizzBuzz.SO.csproj.CoreCompileInputs.cache
+C:\thebulbassignment\FizzBuzz.SO\FizzBuzz.SO\obj\Debug\net6.0\FizzBuzz.SO.dll
+C:\thebulbassignment\FizzBuzz.SO\FizzBuzz.SO\obj\Debug\net6.0\refint\FizzBuzz.SO.dll
+C:\thebulbassignment\FizzBuzz.SO\FizzBuzz.SO\obj\Debug\net6.0\FizzBuzz.SO.pdb
+C:\thebulbassignment\FizzBuzz.SO\FizzBuzz.SO\obj\Debug\net6.0\FizzBuzz.SO.genruntimeconfig.cache
+C:\thebulbassignment\FizzBuzz.SO\FizzBuzz.SO\obj\Debug\net6.0\ref\FizzBuzz.SO.dll
