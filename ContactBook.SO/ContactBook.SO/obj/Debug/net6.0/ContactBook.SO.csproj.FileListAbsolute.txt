@@ -1,0 +1,14 @@
+C:\thebulbassignment\ContactBook.SO\ContactBook.SO\bin\Debug\net6.0\ContactBook.SO.exe
+C:\thebulbassignment\ContactBook.SO\ContactBook.SO\bin\Debug\net6.0\ContactBook.SO.deps.json
+C:\thebulbassignment\ContactBook.SO\ContactBook.SO\bin\Debug\net6.0\ContactBook.SO.runtimeconfig.json
+C:\thebulbassignment\ContactBook.SO\ContactBook.SO\bin\Debug\net6.0\ContactBook.SO.dll
+C:\thebulbassignment\ContactBook.SO\ContactBook.SO\bin\Debug\net6.0\ContactBook.SO.pdb
+C:\thebulbassignment\ContactBook.SO\ContactBook.SO\obj\Debug\net6.0\ContactBook.SO.GeneratedMSBuildEditorConfig.editorconfig
+C:\thebulbassignment\ContactBook.SO\ContactBook.SO\obj\Debug\net6.0\ContactBook.SO.AssemblyInfoInputs.cache
+C:\thebulbassignment\ContactBook.SO\ContactBook.SO\obj\Debug\net6.0\ContactBook.SO.AssemblyInfo.cs
+C:\thebulbassignment\ContactBook.SO\ContactBook.SO\obj\Debug\net6.0\ContactBook.SO.csproj.CoreCompileInputs.cache
+C:\thebulbassignment\ContactBook.SO\ContactBook.SO\obj\Debug\net6.0\ContactBook.SO.dll
+C:\thebulbassignment\ContactBook.SO\ContactBook.SO\obj\Debug\net6.0\refint\ContactBook.SO.dll
+C:\thebulbassignment\ContactBook.SO\ContactBook.SO\obj\Debug\net6.0\ContactBook.SO.pdb
+C:\thebulbassignment\ContactBook.SO\ContactBook.SO\obj\Debug\net6.0\ContactBook.SO.genruntimeconfig.cache
+C:\thebulbassignment\ContactBook.SO\ContactBook.SO\obj\Debug\net6.0\ref\ContactBook.SO.dll
