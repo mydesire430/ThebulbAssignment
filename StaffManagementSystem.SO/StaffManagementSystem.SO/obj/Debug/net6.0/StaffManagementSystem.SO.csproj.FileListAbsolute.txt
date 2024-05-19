@@ -1,0 +1,4 @@
+C:\thebulbassignment\StaffManagementSystem.SO\StaffManagementSystem.SO\obj\Debug\net6.0\StaffManagementSystem.SO.GeneratedMSBuildEditorConfig.editorconfig
+C:\thebulbassignment\StaffManagementSystem.SO\StaffManagementSystem.SO\obj\Debug\net6.0\StaffManagementSystem.SO.AssemblyInfoInputs.cache
+C:\thebulbassignment\StaffManagementSystem.SO\StaffManagementSystem.SO\obj\Debug\net6.0\StaffManagementSystem.SO.AssemblyInfo.cs
+C:\thebulbassignment\StaffManagementSystem.SO\StaffManagementSystem.SO\obj\Debug\net6.0\StaffManagementSystem.SO.csproj.CoreCompileInputs.cache
