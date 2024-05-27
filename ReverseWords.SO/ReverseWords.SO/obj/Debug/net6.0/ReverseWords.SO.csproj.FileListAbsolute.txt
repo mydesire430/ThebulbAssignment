@@ -1,0 +1,14 @@
+C:\thebulbassignment\ReverseWords.SO\ReverseWords.SO\bin\Debug\net6.0\ReverseWords.SO.exe
+C:\thebulbassignment\ReverseWords.SO\ReverseWords.SO\bin\Debug\net6.0\ReverseWords.SO.deps.json
+C:\thebulbassignment\ReverseWords.SO\ReverseWords.SO\bin\Debug\net6.0\ReverseWords.SO.runtimeconfig.json
+C:\thebulbassignment\ReverseWords.SO\ReverseWords.SO\bin\Debug\net6.0\ReverseWords.SO.dll
+C:\thebulbassignment\ReverseWords.SO\ReverseWords.SO\bin\Debug\net6.0\ReverseWords.SO.pdb
+C:\thebulbassignment\ReverseWords.SO\ReverseWords.SO\obj\Debug\net6.0\ReverseWords.SO.GeneratedMSBuildEditorConfig.editorconfig
+C:\thebulbassignment\ReverseWords.SO\ReverseWords.SO\obj\Debug\net6.0\ReverseWords.SO.AssemblyInfoInputs.cache
+C:\thebulbassignment\ReverseWords.SO\ReverseWords.SO\obj\Debug\net6.0\ReverseWords.SO.AssemblyInfo.cs
+C:\thebulbassignment\ReverseWords.SO\ReverseWords.SO\obj\Debug\net6.0\ReverseWords.SO.csproj.CoreCompileInputs.cache
+C:\thebulbassignment\ReverseWords.SO\ReverseWords.SO\obj\Debug\net6.0\ReverseWords.SO.dll
+C:\thebulbassignment\ReverseWords.SO\ReverseWords.SO\obj\Debug\net6.0\refint\ReverseWords.SO.dll
+C:\thebulbassignment\ReverseWords.SO\ReverseWords.SO\obj\Debug\net6.0\ReverseWords.SO.pdb
+C:\thebulbassignment\ReverseWords.SO\ReverseWords.SO\obj\Debug\net6.0\ReverseWords.SO.genruntimeconfig.cache
+C:\thebulbassignment\ReverseWords.SO\ReverseWords.SO\obj\Debug\net6.0\ref\ReverseWords.SO.dll

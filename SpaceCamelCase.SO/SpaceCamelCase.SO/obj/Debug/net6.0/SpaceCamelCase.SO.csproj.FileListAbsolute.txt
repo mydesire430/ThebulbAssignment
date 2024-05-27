@@ -1,0 +1,4 @@
+C:\thebulbassignment\SpaceCamelCase.SO\SpaceCamelCase.SO\obj\Debug\net6.0\SpaceCamelCase.SO.GeneratedMSBuildEditorConfig.editorconfig
+C:\thebulbassignment\SpaceCamelCase.SO\SpaceCamelCase.SO\obj\Debug\net6.0\SpaceCamelCase.SO.AssemblyInfoInputs.cache
+C:\thebulbassignment\SpaceCamelCase.SO\SpaceCamelCase.SO\obj\Debug\net6.0\SpaceCamelCase.SO.AssemblyInfo.cs
+C:\thebulbassignment\SpaceCamelCase.SO\SpaceCamelCase.SO\obj\Debug\net6.0\SpaceCamelCase.SO.csproj.CoreCompileInputs.cache
