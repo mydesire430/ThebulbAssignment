@@ -1,0 +1,14 @@
+C:\thebulbassignment\ReversingWordWithMoreThan5.SO\ReversingWordWithMoreThan5.SO\bin\Debug\net6.0\ReversingWordWithMoreThan5.SO.exe
+C:\thebulbassignment\ReversingWordWithMoreThan5.SO\ReversingWordWithMoreThan5.SO\bin\Debug\net6.0\ReversingWordWithMoreThan5.SO.deps.json
+C:\thebulbassignment\ReversingWordWithMoreThan5.SO\ReversingWordWithMoreThan5.SO\bin\Debug\net6.0\ReversingWordWithMoreThan5.SO.runtimeconfig.json
+C:\thebulbassignment\ReversingWordWithMoreThan5.SO\ReversingWordWithMoreThan5.SO\bin\Debug\net6.0\ReversingWordWithMoreThan5.SO.dll
+C:\thebulbassignment\ReversingWordWithMoreThan5.SO\ReversingWordWithMoreThan5.SO\bin\Debug\net6.0\ReversingWordWithMoreThan5.SO.pdb
+C:\thebulbassignment\ReversingWordWithMoreThan5.SO\ReversingWordWithMoreThan5.SO\obj\Debug\net6.0\ReversingWordWithMoreThan5.SO.GeneratedMSBuildEditorConfig.editorconfig
+C:\thebulbassignment\ReversingWordWithMoreThan5.SO\ReversingWordWithMoreThan5.SO\obj\Debug\net6.0\ReversingWordWithMoreThan5.SO.AssemblyInfoInputs.cache
+C:\thebulbassignment\ReversingWordWithMoreThan5.SO\ReversingWordWithMoreThan5.SO\obj\Debug\net6.0\ReversingWordWithMoreThan5.SO.AssemblyInfo.cs
+C:\thebulbassignment\ReversingWordWithMoreThan5.SO\ReversingWordWithMoreThan5.SO\obj\Debug\net6.0\ReversingWordWithMoreThan5.SO.csproj.CoreCompileInputs.cache
+C:\thebulbassignment\ReversingWordWithMoreThan5.SO\ReversingWordWithMoreThan5.SO\obj\Debug\net6.0\ReversingWordWithMoreThan5.SO.dll
+C:\thebulbassignment\ReversingWordWithMoreThan5.SO\ReversingWordWithMoreThan5.SO\obj\Debug\net6.0\refint\ReversingWordWithMoreThan5.SO.dll
+C:\thebulbassignment\ReversingWordWithMoreThan5.SO\ReversingWordWithMoreThan5.SO\obj\Debug\net6.0\ReversingWordWithMoreThan5.SO.pdb
+C:\thebulbassignment\ReversingWordWithMoreThan5.SO\ReversingWordWithMoreThan5.SO\obj\Debug\net6.0\ReversingWordWithMoreThan5.SO.genruntimeconfig.cache
+C:\thebulbassignment\ReversingWordWithMoreThan5.SO\ReversingWordWithMoreThan5.SO\obj\Debug\net6.0\ref\ReversingWordWithMoreThan5.SO.dll
